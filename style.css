@@ -9,7 +9,7 @@ body{
 }
 
 .header{
-    background-color: #0769e9;
+    background-color: #063674;
     height: 80px;
     position: fixed;
     width: 100%;
@@ -29,7 +29,7 @@ body{
     text-decoration: none;
 }
 .logo{
-    font-size: 90px;
+    font-size: 70px;
     font-weight: bold;
     padding: 0 40px; 
     line-height: 80px;
@@ -40,7 +40,7 @@ body{
     list-style: none;
 }
 .nav-menu-item{
-    font-size: 18px;
+    font-size: 16px;
     margin: 0 10px;
     line-height: 80px;
     text-transform: uppercase;
